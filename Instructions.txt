@@ -1,0 +1,8 @@
+For the mars_rover.py
+
+1. input date only has this sequence
+    MONTH DAY YEAR
+    
+2. Downloaded pictures will be located in the user's Downloads folder
+
+3. execution will be on CMD
